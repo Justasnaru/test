@@ -1,0 +1,72 @@
+{
+  "apartments": [
+    {
+      "id": "1",
+      "type": "house",
+      "owner": {
+        "fullname": "Jonas Namas",
+        "email": "jonas@namas.lt",
+        "phone": "860477475"
+      },
+      "roomCount": 5,
+      "squares": 300,
+      "address": "Namu g. 3, Vilnius, Lietuva",
+      "price": {
+        "amount": 500000,
+        "currency": "€"
+      },
+      "imgSrc": "https://archlab.lt/wp-content/uploads/2019/04/1-Mindaugo-namas.jpg"
+    },
+    {
+      "id": "2",
+      "type": "flat",
+      "owner": {
+        "fullname": "Tomas Butas",
+        "email": "tomas@butas.lt",
+        "phone": "860471235"
+      },
+      "roomCount": 2,
+      "squares": 40,
+      "address": "Buto g. 18, Kaunas, Lietuva",
+      "price": {
+        "amount": 100000,
+        "currency": "€"
+      },
+      "imgSrc": "https://hanner.lt/wp-content/uploads/2021/01/Ozo-gama-vizualizacija_1.png"
+    },
+    {
+      "id": "3",
+      "type": "cottage",
+      "owner": {
+        "fullname": "Mantas Kotedzas",
+        "email": "mantas@kotedzas.lt",
+        "phone": "860494756"
+      },
+      "roomCount": 3,
+      "squares": 100,
+      "address": "Kotedzu g. 8, Vilnius, Lietuva",
+      "price": {
+        "amount": 200000,
+        "currency": "$"
+      },
+      "imgSrc": "https://g2.dcdn.lt/images/pix/naujas-kotedzu-kvartalas-pilaiteje-architekto-80464347.jpg"
+    },
+    {
+      "id": "4",
+      "type": "house",
+      "owner": {
+        "fullname": "Lukas Namas",
+        "email": "lukas@namas.lt",
+        "phone": "860474325"
+      },
+      "roomCount": 4,
+      "squares": 200,
+      "address": "Slenio g. 25, Trakai, Lietuva",
+      "price": {
+        "amount": 300000,
+        "currency": "$"
+      },
+      "imgSrc": "https://balticmodules.lt/wp-content/gallery/individualus-namas/IMG_2921-HDRbm-scaled.jpg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "CA DOM atsiskaitymas",
+  "main": "index.js",
+  "scripts": {
+    "start-unix": "node_modules/.bin/json-server --watch database.json",
+    "start-win": "node_modules\\.bin\\json-server --watch database.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Justasnaru: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@github.com/Justasnaru/test.git"
+  },
+  "author": "Justas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justasnaru/test/issues"
+  },
+  "homepage": "https://github.com/Justasnaru/test#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
